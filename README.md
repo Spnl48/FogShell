@@ -11,8 +11,13 @@ UuidFuscation: Output The Shellcode As A Array Of alphanumeric string [Example: 
 Running The binary as is, will output the help screen, from there it is so easy to use, i added 3 other projects, to demonstrate how to call the decoder function.
 Fogshell will output on the console the shellcode as well the SizeofShellcode and NumberofElements needed for decryption.
 
+Note: The projects should be compiled in release mode. Compiling in debug mode will result in the binary not working correctly.
+
 The Help Screen:
 ![image](https://github.com/Spnl48/FogShell/assets/68971838/ff509b78-283b-4d11-bde6-0f0193aa65e3)
 
 Example:
 ![image](https://github.com/Spnl48/FogShell/assets/68971838/24bd0a63-897f-4eb3-b41d-9939ae10ad3d)
+
+![image](https://github.com/Spnl48/FogShell/assets/68971838/92ea32c0-d937-4eb8-a8b2-f337b96e4993)
+
